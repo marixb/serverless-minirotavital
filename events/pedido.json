@@ -1,9 +1,9 @@
 {
-  "body": "eyJyZXF1aXNpY2FvSWQiOiJSLTAwMSIsImhvc3BpdGFsIjoiSC1SZWNpZmUiLCJib2xzYXMiOlsiTy1ORUctMDE0MiJdfQ==",
+  "body": "{\"requisicaoId\": \"R-001\", \"hospital\": \"H-Recife\", \"bolsas\": [\"O-NEG-0142\"]}",
   "resource": "/{proxy+}",
   "path": "/guias",
   "httpMethod": "POST",
-  "isBase64Encoded": true,
+  "isBase64Encoded": false,
   "queryStringParameters": {
     "foo": "bar"
   },
